@@ -1,0 +1,5 @@
+include iast_scanner/config.default.yaml
+include iast_scanner/VERSION
+graft iast_scanner/web
+graft iast_scanner/lib
+
